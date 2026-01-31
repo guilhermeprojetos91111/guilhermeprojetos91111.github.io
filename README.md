@@ -11,5 +11,6 @@
     <button id="botaoClique">Clique aqui!</button>
     <p id="mensagem"></p>
     <script src="script.js"></script>
+    <button id="meuBotao">Mudar Cor</button>
 </body>
 </html>
