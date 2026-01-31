@@ -13,3 +13,8 @@
     <script src="script.js"></script>
 </body>
 </html>
+<nav>
+    <a href="index.html" class="botao">Home</a>
+    <a href="fotos.html" class="botao">Fotos</a>
+    <a href="contato.html" class="botao">Contato</a>
+</nav>
