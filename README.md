@@ -11,10 +11,11 @@
     <button id="botaoClique">Saiba mais</button>
     <p id=0911"mensagem"></p>
     <script src="script.js"></script>
-</body>
-</html>
-<nav>
-    <a href="index.html" class="botao">Home</a>
+    <nav>
+        <a href="index.html" class="botao">Home</a>
     <a href="fotos.html" class="botao">Fotos</a>
     <a href="contato.html" class="botao">Contato</a>
-</nav>
+    </nav>
+</body>
+</html>
+
