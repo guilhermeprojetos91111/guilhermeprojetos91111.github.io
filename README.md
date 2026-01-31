@@ -13,28 +13,3 @@
 <script src="script.js"></script>
 </body>
 </html>
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #f0f2f5;
-    padding-top: 50px;
-}
-
-h1 { color: #2b3137; }
-
-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    background-color: #2ea44f;
-    color: white;
-    border: none;
-    border-radius: 5px;
-}
-const botao = document.getElementById('botaoClique');
-const texto = document.getElementById('mensagem');
-
-botao.addEventListener('click', () => {
-    texto.innerText = "O JavaScript está funcionando! Você clicou no botão.";
-    botao.style.backgroundColor = "#ff4444";
-});
