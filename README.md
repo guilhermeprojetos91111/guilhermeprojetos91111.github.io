@@ -3,3 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <title>Meu Primeiro Site</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Olá, Mundo! 🚀</h1>
+<p>Este é o meu primeiro site hospedado no GitHub.</p>
+<button id="botaoClique">Clique aqui!</button>
+<p id="sucesso"></p>
+<script src="script.js"></script>
+</body>
+</html>
