@@ -16,6 +16,20 @@
     <a href="fotos.html" class="botao">Fotos</a>
     <a href="contato.html" class="botao">Contato</a>
     </nav>
+    .botao {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Cor azul */
+    color: white;
+    text-decoration: none; /* Tira o sublinhado */
+    border-radius: 5px;
+    margin: 5px;
+    transition: background 0.3s;
+}
+
+.botao:hover {
+    background-color: #0056b3; /* Cor muda ao passar o mouse */
+}
 </body>
 </html>
 
